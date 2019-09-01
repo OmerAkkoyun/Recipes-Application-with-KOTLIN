@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <array name="basliklar">
+
+        <item>Domatesli Köfte</item>
+        <item>Ekmekli Pizza</item>
+        <item>Ispanaklı Yumurta</item>
+        <item>Kıymalı Yumurta</item>
+        <item>Krep</item>
+        <item>Mantar Sote</item>
+        <item>Peynirli Omlet</item>
+        <item>Patates Köftesi</item>
+        <item>Patates Salatası</item>
+        <item>Sosisli Makarna</item>
+        <item>Sucuklu Yumurta</item>
+        <item>Tavuk Kızartma</item>
+        <item>Tavuk Sote</item>
+        <item>Tereyağlı Patates</item>
+        <item>Tonbalıklı Makarna</item>
+        <item>Yoğurtlu Çorba</item>
+        <item>Yumurtalı Ekmek</item>
+
+    </array>
+
+
+    <array name="sure">
+
+
+
+        <item>1 - 1.5 saat</item>
+        <item>10-20 dakika</item>
+        <item>15-25 dakika</item>
+        <item>10-20 dakika</item>
+        <item>10-15 dakika</item>
+        <item>20-40 dakika</item>
+        <item>5-15 dakika</item>
+        <item>30-50 dakika </item>
+        <item>20-25 dakika</item>
+        <item>20-30 dakika</item>
+        <item>5-15 dakika</item>
+        <item>30-60 dakika</item>
+        <item>40-60 dakika</item>
+        <item>20-30 dakika</item>
+        <item>20-45 dakika</item>
+        <item>20-40 dakika</item>
+        <item>5-10 dakika</item>
+
+
+
+    </array>
+
+
+<array name="tarif">
+
+<item>
+    \t***Domatesli Köfte Tarifi İçin Malzemeler***\n\n
+    \t6 çay bardağı köftelik bulgur\n
+    \t1 tane kuru soğan\n
+    \t4 diş sarımsak\n
+    \t1 demet maydanoz\n
+    \tYarım kilogram domates\n
+    \t1 yemek kaşığı biber salçası\n
+    \tYarım yemek kaşığı domates salçası\n
+    \t6 yemek kaşığı toz biber\n
+    \t1 çay kaşığı karabiber\n
+    \t2 su bardağı sıvı yağ\n\n\n
+
+    \t***Domatesli Köfte Tarifi Yapılışı***\n\n
+    \tÖncelikle soğan, sarımsak, domates ve maydanozu küçük küçük doğrayın.\n
+    \tDomatesi ayrı maydanozu ayrı soğanla, sarımsağı ayrı yerlere koyun.\n
+    \tKöfte leğenine bulguru, salçaları, toz biberi, baharatları ve soğanla sarımsağı alıp domatesle yoğurmaya başlayın.\n\n
+    \tBulgurlar ezilene kadar domates alıp yoğurun.\n
+    \tBulgurlar ezilince önce yağımızı alıp 6-7 dk da yağla yoğurun.\n
+    \tDaha sonra maydanozu ekleyip 2 dk da maydanozla yoğurun. Elinizi suya batırıp küçük küçük sıkarak şekillendirin.\n\n\n
+    \tAFİYET OLSUN..\n\n\n\n
+</item>
+    <item>
+        \t***Kahvaltılık İçin Malzemeler***\n
+        \t9-10 dilim ekmek veya tost ekmeği\n
+        \tSivri biber\n
+        \tDomates\n
+        \tSosis\n
+        \tSucuk\n
+        \tZeytin\n
+        \tKaşar peyniri\n\n
+
+        \t* Sosu için *\n
+        \t2 yemek kaşığı zeytinyağı\n
+        \tyarım yemek kaşığı salça\n
+        \t2 diş sarımsak\n
+        \t1 domates\n
+        \t1 küp şeker\n
+        \tTuz\n
+        \tKarabiber\n
+        \tKekik (isteğe bağlı)\n
+
+        \t***Hazırlanışı***\n\n
+        \tSosu için öncelikle rendelenmiş sarımsaklar ile yarım kaşık salçayı kızdırılmış zeytinyağında karıştırın.\n
+        \tRendelenmiş domatesi de ekledikten sonra tuz, şeker, karabiber ve kekiği ilave edip yoğun kıvama gelene kadar pişirin.\n
+        \tSonra ılımaya bırakın.Yumurtaları ayrı bir kapta çırpın ve kaşarları rendeleyin. Diğer malzemeleri istediğiniz şekilde kesin.\n
+        \tEkmeklerin üstüne sosu sürüp malzemeleri koyduktan sonra yumurtayı azar azar hepsine ilave edebilirsiniz.\n
+        \tEn üste rendelenmiş kaşarları koyun ve 180 derecelik fırında yaklaşık 25-30 dakika pişirin.\n\n
+        \tAFİYET OLSUN..\n\n\n\n
+    </item>
+    <item>
+        \t*** Ispanaklı Yumurta için Malzemeler ***\n
+        \t4 adet yumurta\n
+        \t500 gr. yıkanmış ayıklanmış ıspanak\n
+        \t3 yemek kaşığı zeytinyağı\n
+        \t1 adet orta boy soğan\n
+        \tkırmızı biber\n
+        \tkarabiber\n
+        \ttuz\n\n
+
+
+        \tYapılışı:\n
+        \tAyıklanıp yıkanmış ıspanaklarınızı ince ince doğrayın. Soğanınızı yemeklik doğrayın.\n
+        \tGeniş bir tavaya zeytinyağını koyun ve yemeklik doğranan soğanı alın. Tuzunu ekleyerek orta ateşte soğanlan pembeleşene kadar kavurun.\n
+        \tAzar azar ıspanakları ekleyin ve kavurmaya devam edin. Tüm ıspanaklar bittiğinde 2-3 dakika daha kavurun.\n
+        \tIspanakların aralarına çatal yardımıyla kıracağınız yumurta sayısı kadar boşluk açın ve yumurtaları kırın.\n
+        \tTavanızın üzerine bir kapak kapatarak yumurtalar istediğiniz kıvamda pişene kadar kısık ateşte pişirin.\n
+        \tBaharatları ekleyerek servis yapın.\n\n
+        \tAFİYET OLSUN..\n\n\n\n
+    </item>
+    <item>
+        \t*** Kıymalı Yumurta için Malzemeler ***\n
+        \t150 gram kıyma\n
+        \t1 orta boy soğan\n
+        \t6 dal maydanoz\n
+        \t4 yumurta\n
+        \t1 silme çay kaşığı tuz\n
+        \t1 silme çay kaşığı karabiber\n
+        \tYarım çay kaşığı pul biber\n
+        \t1 tatlı kaşığı tereyağı\n\n
+
+
+        \t*** Hazırlanışı ***\n
+        \tTavayı ısıtıp kıymayı tavaya alın ve yüksek ateşte kavurmaya başlayın.\n
+        \tSoğanları yemeklik doğrayın. Kıymaların rengi değişince tavaya ilave edin. Altını kısıp kavurmaya devam edin.\n
+        \tKıymanız yağsızsa tavaya biraz zeytinyağı ilave edin. Birkaç kaşık da su ekleyerek kıymaların tavaya yapışmasını önleyin.\n
+        \tTuz ve karabiberi ilave edin.\n
+        \tMaydanozları da ince ince kıyıp altını kapattığınız kıymaya ekleyin.\n
+        \tYumurtaları ekleyeceğiniz zaman tavanın altını kısık ateşte açın.\n
+        \tTavanın dört köşesine yumurtalar için yuvalar açıp yumurtaları buralara kırın. Beyazlarına biraz tuz ve karabiber serpin.\n
+        \tSarılarını patlatmadan beyazları kıymayla hafifçe karıştırarak tavaya yayın ve 1 dakika pişirin.\n
+        \tSon olarak üzerine pul biberi serpip altını kapatın. Yumurtalar tavanın sıcağıyla pişmeye devam edecektir. Afiyet olsun!\n\n
+        \tAFİYET OLSUN..\n\n\n\n
+    </item>
+    <item>
+        \t*** Kahvaltılık Krep Tarifi İçin Malzemeler ***\n
+        \t2 adet yumurta\n
+        \t2 su bardağından biraz az un\n
+        \t1 su bardağı su\n
+        \t1 su bardağı süt\n
+        \t1 çay kaşığı tuz\n
+        \tpişirmek için tereyağı veya sıvı yağ\n\n
+
+        \t*** Kahvaltılık Krep Tarifi Yapılışı ***\n
+        \tKrep tarifi hazırlamak için un, süt ve su ile hiç topak kalmayana kadar iyice çırpın.\n
+        \tYumurtaları ekleyin biraz daha çırpın. Kek hamurundan daha akıcı bir kıvamda hamur edin.\n
+        \tTeflon tavaya 1 çay kaşığı kadar tereyağı veya sıvı yağ koyup kızdırın.\n
+        \tTavaya 1 kepçe krep hamuru dökerek yayın.\n
+        \tHer iki tarafını çevirerek hafif kızarana kadar orta ateşte pişirin.\n
+        \tKrep tarifimiz hazır, afiyet olsun.\n\n
+        \tAFİYET OLSUN..\n\n\n\n
+    </item>
+    <item>
+        \t*** Mantar Sote için Malzemeler ***\n
+        \t500 gr. kültür mantarı\n
+        \t1 adet soğan\n
+        \t1 adet kapya biber (kırmızı biber)\n
+        \t1 adet çarliston biber\n
+        \t1 adet büyük domates\n
+        \t3-4 diş sarımsak\n
+        \t3-4 yemek kaşığı sıvı yağ\n
+        \t1 tatlı kaşığı salça\n
+        \t1 çay kaşığı tuz\n\n
+
+        \t*** Hazırlanışı ***\n
+        \t Mantarları güzelce temizleyip kabuklarını soyun dilimleyin.\n
+        \t Bir tavaya yağ alıp üzerine doğradığınız kapya biberleri, sarımsak, soğan ve çarliston biberleri ilave edin.\n
+        \t Üzerine doğradığınız mantarları ilave edip orta hararetli ateşte mantar suyunu salıp çekene kadar kavurun.\n
+        \t Kavrulan ve diriliğini kaybeden sebze ve mantarların üzerine salça ve domatesleri ilave edip karıştırın.\n
+        \t Tuzu ekleyin. Karıştırın.\n
+        \t Kısık ateşte kapağı kapalı olarak 5-6 dakika daha pişirin.\n\n
+        \tAfiyet olsun.\n\n\n\n
+    </item>
+    <item>
+        \t*** Peynirli omlet için malzemeler ***\n
+        \t2 adet yumurta,\n
+        \t1 su bardağı süt,\n
+        \t2 kibrit kutusu büyüklüğünde beyaz peynir,\n
+        \tYaklaşık 1 su bardağı un,\n
+        \tTuz,\n
+        \tKarabiber,\n
+        \tKırmızı pul biber,\n
+        \tMaydanoz,\n
+        \tSıvı yağ.\n\n
+
+
+        \t*** Peynirli omlet yapılışı ***\n
+        \tMaydanozu ince ince doğrayın\n
+        \tYumurtaları çırpın\n
+        \tİçine sütü, beyaz peyniri ilave edelim ve peyniri ezerek karıştırın\n
+        \tUnu azar azar ilave ederek kıvamını ayarlayın.Kıvamı tavaya döktüğümüz zaman yayılacak şekilde olmalı\n
+        \tSonra karabiberi, kırmızı pul biberi, maydanozu, tuzu ilave edin ve karıştırın.\n
+        \tTeflon tavayı ısıtıp, çok az sıvı yağı koyalım ve hazırladığımız karışımı krepten biraz daha kalın olacak şekilde kepçeyle dökün.\n
+        \tDaha sonra kısık ateşte arkalı önlü pişirin.\n
+        \tPeynirli omletimizi sıcak sıcak servis edin.\n\n
+        \tAfiyet olsun.\n\n\n\n
+    </item>
+    <item>
+        \t*** Patates köftesi tarifi için malzemeler ***\n
+        \t8 patates\n
+        \t2 yumurta\n
+        \t2 çorba kaşığı un\n
+        \t1 su bardağı rendelenmiş kaşarpeyniri\n
+        \tTuz\n
+        \tkarabiber\n\n
+
+
+        \t*** Patates köftesi Nasıl Yapılır ***\n
+        \tPatatesleri soyup haşlayın. Suyunu süzüp ılınmaya bırakın. Patatesleri çukur bir kaba rendeleyin.\n
+        \tYumurta, un, tuz ve karabiberi ekleyip harmanlayın. Peyniri ilave edip karıştırın.\n
+        \tElinizi una bulayıp patatesli karışımdan ceviz büyüklüğünde parçalar koparın ve elinizde yuvarlayıp silindir şekli verin.\n
+        \tÜzeri için susam, mısır unu ve unu ayrı kaplara alın. 2 yumurtayı başka bir kapta çırpın.\n
+        \tHazırladığınız patates köftelerini önce una sonra sırasıyla çırpılmış yumurtaya, mısır ununa ve susama bulayın.\n
+        \tHazırladığınız patates köftelerini ısınmış ayçiçek yağında altın rengini alana dek çevirerek kızartın.\n
+        \tKağıt havlu üzerine alıp fazla yağını süzdürün. Servis yapın.\n
+        \tAfiyet olsun.\n\n\n\n
+    </item>
+    <item>
+        \t*** Patates Salatası için Malzemeler ***\n
+        \t5 adet orta boy patates\n
+        \t1 adet kuru soğan\n
+        \t2 yada 3 adet yeşil soğan\n
+        \tYarım demet maydanoz\n
+        \t1 yumurta\n
+        \t1 çorba kaşığı sirke\n
+        \t1 adet limonun suyu \n
+        \t2 diş sarımsak\n
+        \t1 tutam roka\n
+        \t1 kahve fincanı zeytinyağı\n
+        \tTuz\n
+        \tToz karabiber\n
+        \tKırmızı biber\n\n
+
+        \t*** Hazırlanışı ***\n
+        \tPatatesleri soyun, iri küpler halinde doğrayın. Orta boy bir tencerede üzerini geçecek kadar soğuk su ile ocağa koyun.\n
+        \tSu kaynadıktan sonra 15-20 dakika kadar daha pişirin sonra suyunu süzün.\n
+        \tPatatesler haşlanırken sosu ve diğer malzemeleri hazırlayın.\n
+        \tSoğanı yarım ay şeklinde doğrayın. Acısının çıkması için üzerine tuz koyarak ovun, yıkayın ve süzün.\n
+        \tYeşil soğan, roka, sarımsak ve maydanozu ince ince doğrayın.\n
+        \tSirke, limon suyu, tuz, karabiber, kırmızıbiber ve 1 çiğ yumurta da ilave edin. Hafifçe çatalla çırpın. \n
+        \tBu karışıma zeytinyağını yavaş yavaş çırpmaya devam ederek ekleyin.\n
+        \tPatatesler haşlanıp suyu süzülür süzülmez çok sıcakken bu karışımı patateslerin üzerine dökün ve karıştırın.\n
+        \tTencerenin kapağını kapatarak bir süre bekletin. Doğradığınız diğer malzemeleri de katın.\n
+        \tSoğuduktan sonra servis tabağına alın, üzerini arzuya göre süsleyin.\n\n
+        \tAFİYET OLSUN\n\n\n\n
+    </item>
+    <item>
+        \t*** Sosisli Makarna Tarifi için Malzemeler ***\n
+        \t3 yada 4 adet sosis\n
+        \t1/2 paket makarna\n
+        \t1 orta boy soğan\n
+        \t1/2 çay bardağı sıvı yağ\n
+        \tNane\n
+        \tTuz\n\n
+
+
+        \t*** Hazırlanışı ***\n
+        \tMakarnayı haşlıyoruz. Sıvı yağda küp küp doğranan soğanı pembeleşinceye kadar kavurun. \n
+        \tİçerisine uzunlamasına ikiye böldükten sonra ince kıyılan sosisleri ilave edip sosisleri kavurun.\n
+        \tEn son olarak nanesini ekleyin. Haşlanan makarna ile karıştırın.\n\n
+        \tAfiyet olsun.\n\n\n\n
+    </item>
+    <item>
+        *** Sucuklu Yumurta için Malzemeler ***\n
+        10-15 dilim sucuk\n
+        1 tatlı kaşığı sıvıyağ\n
+        2 yumurta\n
+        Tuz\n
+        Baharat\n\n
+
+
+        *** Hazırlanışı ***\n
+        İnce dilimlenmiş 10-15 dilim sucuğu 1 tatlı kaşığı sıvıyağ ilave edilmiş bir tavada kızartın. \n
+        2 yumurtayı kırıp çırpmadan ilave edin. Kapağını kapatmadan 1-2 dakika pişirin. \n
+        Ateşten alıp 1 tutam tuz ve istediğiniz baharatla tatlandırın. Sıcak servis yapın. \n
+        Sucuklu yumurta artık hazır, afiyet olsun.\n\n
+        Afiyet Olsun \n\n\n\n
+
+    </item>
+    <item>
+        *** Tavuk Kızartması Tarifi İçin Malzemeler *** \n
+        1 kilo kızartmalık tavuk (baget veya ızgaralık elimizde ne varsa), \n
+        Yarım çay bardağı sıvı yağı, \n
+        1 yemek kaşığı kekik, \n
+        1 yemek kaşığı kırmızı toz biber, \n
+        1 tatlı kaşığı karabiber, \n
+        1 tatlı kaşığı tuz. \n \n
+
+
+        *** Tavada Kızarmış Tavuk Tarifi Yapılışı *** \n
+        Tavuklar i̇yi̇ce yıkanıp suyu süzüldükten sonra deri̇n bir kaba alınır. \n
+        Üzerine yağ ve baharatlar i̇lave edilerek iyice harmanlanır. \n
+        1 saat buzdolabında dinlendirdikten sonra 1 yemek kaşığı kızgın yağda kızartılır. Sıcak servis edilir. \n \n
+        Afiyet Olsun \n \n \n \n
+    </item>
+    <item>
+        *** Tavuk Sote için malzemeler ***\n
+        500 gram tavuk göğsü\n
+        1 adet soğan\n
+        2 adet sivri biber\n
+        1 yemek kaşığı salça\n
+        Kimyon, kekik, pulbiber, karabiber\n
+        Tuz\n
+        Yarım çay bardağı su\n
+        2 yemek kaşığı sıvı yağ\n\n
+
+
+        *** Hazırlanışı ***\n
+        1- Sıvı yağı tavaya koyun. Üzerine doğranmış tavukları, soğanları, biberleri ve sarımsakları ekleyin.\n
+        Baharatları da ekleyip kavurarak pişirmeye başlayın.\n
+        2- Tavuk suyunu salıp çekene kadar kavurun.\n
+        3- Tavuk suyunu çektikten sonra üzerine domatesleri ve salçayı ekleyip karıştırarak biraz daha pişirin. \n
+        EN son kısık ateşte kapağını kapatıp 5-6 dakika daha pişirin. Yemeğimiz hazır. Afiyet olsun.\n\n
+        Afiyet Olsun \n \n \n \n
+    </item>
+    <item>
+        *** Fırında Tereyağlı Patates için Malzemeler ***\n
+        8 adet taze patates\n
+        2 yemek kaşığı tereyağı\n
+        7 yaprak taze kekik\n
+        1 diş sarımsak\n
+        Tuz\n
+        Karabiber\n\n
+
+
+       *** Yapılışı ***\n
+        Patatesleri soyup güzelce yıkıyoruz daha sonra kurulayıp istediğimiz gibi doğruyoruz.\n
+        Erittiğimiz 2 yemek kaşığı tereyağı ve yarım çay bardağına yakın sıvı yağ patateslerimizin üzerine boşaltıyoruz.\n
+        Yeteri kadar tuzunu ilave ettikten sonra güzelce harmanlıyoruz.\n
+        Yağlı kağıt serdiğimiz tepsiye koyuyoruz 250 derecede kızarana kadar pişiriyoruz.\n\n
+        Afiyet Olsun \n \n \n \n
+
+    </item>
+    <item>
+        *** Ton Balıklı Makarna için Malzemeler ***\n
+        1 paket çubuk makarna\n
+        250 gr. ton balığı konservesi\n
+        5 çorba kaşığı sıvıyağ\n
+        2 diş sarımsak\n
+        2 çorba kaşığı domates salçası\n
+        1 fincan soğuk su\n
+        yarım çorba kaşığı kıyılmış maydanoz\n
+        tuz ve karabiber\n\n
+
+        *** Yapılışı ***\n
+        Bir tencereye sıvıyağı ve dövülmüş sarımsakları koyup, pembeleştikten sonra ateşten alın.\n
+        Ton balığını tahta kaşıkla ezip ocaktaki karışıma katın.\n
+        Küp şeklinde kesilmiş domatesleri, tuzu ve karabiberi de ekleyerek, kısık ateşte sosu yoğunlaşana kadar pişirin.\n
+        Bu arada tuzlu bol suda makarnaları haşlayın.\n
+        Sosa kıyılmaydanozu da ekleyin, makarnaları süzüp servis tabağına aldıktan sonra, üzerine sosunu dökerek servis yapın.\n\n
+        Afiyet Olsun \n \n \n \n
+    </item>
+    <item>
+        *** Yoğurtlu çorba tarifi için Malzemeler ***\n
+        6 su bardağı su\n
+        3 çorba kaşığı pirinç\n
+        2 çorba kaşığı un\n
+        1 yumurta sarısı\n
+        2 su bardağı yoğurt\n
+        2 çay kaşığı tuz ve kuru nane\n\n
+
+        *** Hazırlanışı ***\n
+        Tencere içerisine suyu koyun ve kaynatın Kaynayan suyun içerisine pirinci koyalım\n
+        Pirinçler yumuşamaya başlayana kadar pişirmeye devam edin.\n
+        Bir kapta yumurta, un ve yoğurdu karıştırın. Pişen pirincin üzerine ekleyin ve karıştırın.\n
+        10 dakikaya yakın pişirdikten sonra altını kapatın ve tuzunu ekleyin.\n
+        En son süslemek için kuru naneyi ekleyin. Afiyet olsun...\n
+        Afiyet Olsun \n \n \n \n
+    </item>
+    <item>
+        *** Yumurtalı Kızarmış Ekmek Tarifi için Malzemeler ***\n
+        2 Adet Yumurta\n
+        1 çay Bardağı Süt\n
+        Tuz\n
+        1 Avuç Maydanoz ( doğranmış )\n
+        10 Dilim Ekmek\n
+        3 Yemek Kaşığı Tereyağ \n
+
+
+        *** Hazırlanışı ***\n
+        Yumurta, süt, tuz ve kıyılmış maydanozu beraber bir kapta çırpıyoruz, 1 yemek kaşığı tereyağını tavada eritip kızdırıyoruz.\n
+        Ekmekleri yumurtalı karışıma arkalı önlü bulayarak bir tavaya diziyoruz.\n
+        Altları kızardığında ters çevirip üstlerini de kızartıyoruz.\n
+        Yağlı kağıt serilmiş tabağa koyuyoruz. Tavaya ikinci yemek kaşığı tereyağını da ekleyip kızdırıyoruz\n.
+        İkinci parti ekmekleri de yumurtaya bulayıp kızartıyoruz. Kalan ekmek dilimleri için de saydığım adımları tekrarlıyoruz.\n
+        Yumurtalı ekmeklerimiz servise hazır, yanına çeri domates ya da peynir ile servise hazır hale getirebilirz.\n\n
+        Afiyet Olsun \n\n\n\n
+    </item>
+
+
+
+</array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
