@@ -1,7 +1,7 @@
 # Yemek Tarifi Uygulaması
 
 #### Google Play : 
-Yayınlanmak için beklemede..
+Yayınlanmak için beklemede...
 ### Test Video :
 https://www.youtube.com/watch?v=CSJlgdVu9lA
 
