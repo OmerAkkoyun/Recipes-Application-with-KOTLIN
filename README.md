@@ -1,7 +1,7 @@
 # Yemek Tarifi Uygulaması
 
 #### Google Play : 
-Yayınlanmak için beklemede...
+https://play.google.com/store/apps/details?id=com.omer_akkoyun.yemektarifleri
 ### Test Video :
 https://www.youtube.com/watch?v=CSJlgdVu9lA
 
