@@ -1,4 +1,4 @@
-# Recipes Application KOTLIN
+# Recipes Application KOTLIN 
 
 - Application Language =  Turkish
 
